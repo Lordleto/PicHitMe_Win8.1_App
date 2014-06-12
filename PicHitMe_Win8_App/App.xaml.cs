@@ -34,7 +34,6 @@ namespace PicHitMe_Win8_App
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
-
         }
 
         /// <summary>
